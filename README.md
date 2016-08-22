@@ -1,1 +1,1 @@
-# csis-604-fall-2016
+https://anderson-lab.github.io/csis-604-fall-2016/
