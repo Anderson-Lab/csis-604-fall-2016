@@ -1,0 +1,8 @@
+title: Distributed Computer Systems Architecture
+description: CSIS 604 - Fall 2016
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
