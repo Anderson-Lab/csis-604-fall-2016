@@ -1,6 +1,5 @@
 ## Important Links
 * [Facebook Group](https://www.facebook.com/groups/293624717672980/)
-* [Lectures](https://lowcountrygraduatecenter.mediasite.com)
 ** You must navigate Harbor Walk -> Computer Science ... 604
 * [Course Materials, Slides, etc](https://www.dropbox.com/sh/x9iayt9af5e6zk8/AADDNf0GNyzHkyFfSu65UL9va?dl=0)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
